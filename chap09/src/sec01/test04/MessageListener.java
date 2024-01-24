@@ -1,11 +1,10 @@
-package sec01.test;
+package sec01.test04;
 
 public class MessageListener implements Button.OnClickListener {
 
 	@Override
 	public void onClick() {
-		System.out.println("메세지를 보냅니다.");
-		
+		System.out.println("문자를 보냅니다.");
 	}
 
 }

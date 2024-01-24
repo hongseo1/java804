@@ -1,4 +1,4 @@
-package sec01.test;
+package sec01.test06;
 
 public class ButtonExample {
 
@@ -10,7 +10,6 @@ public class ButtonExample {
 		
 		btn.setOnClickListener(new MessageListener());
 		btn.touch();
-
 	}
 
 }

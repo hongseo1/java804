@@ -1,4 +1,4 @@
-package sec01.test;
+package sec02.exam03;
 
 public class Button {
 	OnClickListener listener;
