@@ -8,4 +8,12 @@
 <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
 <fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec01.test.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test01.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test02.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test03.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test04.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test05.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test07.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
