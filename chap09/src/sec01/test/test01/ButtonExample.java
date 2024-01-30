@@ -1,4 +1,4 @@
-package sec01.test06;
+package sec01.test.test01;
 
 public class ButtonExample {
 

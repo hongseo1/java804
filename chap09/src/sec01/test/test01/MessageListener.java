@@ -1,6 +1,6 @@
-package sec01.test08;
+package sec01.test.test01;
 
-public class MessageListener implements Button.OnClickListener {
+public class MessageListener implements Button.OnclickListener {
 
 	@Override
 	public void onClick() {
