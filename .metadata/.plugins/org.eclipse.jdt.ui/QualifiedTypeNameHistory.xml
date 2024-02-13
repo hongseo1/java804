@@ -17,12 +17,16 @@
 <fullyQualifiedTypeName name="sec01.test06.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec01.test07.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec01.test08.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="sec01.test.test01.Button.OnclickListener"/>
 <fullyQualifiedTypeName name="java.util.Objects"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.awt.Toolkit"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
 </qualifiedTypeNameHistroy>
